@@ -1,0 +1,14 @@
+{
+  "name": "city-weather-zf",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "weather": "bin.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zf",
+  "license": "ISC"
+}
